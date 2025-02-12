@@ -8,7 +8,7 @@ entries:
     digest: 2d546ab7f2f365ddbc10667e2385773d5a3ac1465161fb7ca4fcc1c2baf1c0b8
     name: blob-csi-driver
     urls:
-    - https://raw.githubusercontent.com/kubernetes-sigs/blob-csi-driver/master/charts/v1.25.1/blob-csi-driver-1.25.1.tgz
+    - https://gazdagandras.github.io/blob-csi-driver/v1.25.1/blob-csi-driver-1.25.1.tgz
     version: 1.25.1
   - apiVersion: v1
     appVersion: 1.25.0
